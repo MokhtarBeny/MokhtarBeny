@@ -68,8 +68,8 @@
 <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
 <p align="center">
-  <img height="50%" width="auto" src ="">
-  <img height="50%" width="auto" src ="">
+  <img height="50%" width="auto" src ="https://mokhtar-benyahia-portfolio.vercel.app/_next/image?url=%2Fassets%2Fjourney%2Feducation%2Fcertification%20PSPO%20I.png&w=1920&q=75">
+  <img height="50%" width="auto" src ="https://mokhtar-benyahia-portfolio.vercel.app/_next/image?url=%2Fassets%2Fjourney%2Feducation%2FSCI_Expert.png&w=1920&q=75">
 <img src="" />  <br>
   <br>  
 </p>
