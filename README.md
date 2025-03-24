@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mokhtar Benyahia</h1>
 <h3 align="center">A passionate developer | Product Manager | Product Owner from Paris</h3>
 
-- 🔭 I’m currently working on **luxury division of l'Oréal**
+- 🔭 I’m currently working on **Luxury Division of l'Oréal**
 
 - 🌱 I’m currently learning **Machine Learning / Pathfinding / project management expertise**
 
