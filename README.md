@@ -73,7 +73,8 @@
 <img alt="AutoIT" src="https://img.shields.io/badge/Auto--IT-red" />
 <img alt="GithubAction" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square" />
 <img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=flat-square&logo=Google%20Cloud&logoColor=white" />
-
+<img alt="symfony" src="https://img.shields.io/badge/Symfony-black?logo=symfony&style=flat-square" />
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?&style=flat-square&logo=vercel&logoColor=white" />
 
 
 
