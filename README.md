@@ -72,10 +72,7 @@
 <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
 <img alt="AutoIT" src="https://img.shields.io/badge/Auto--IT-red" />
 <img alt="GithubAction" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat-square" />
-
-
-
-
+<img alt="GCP" src="https://img.shields.io/badge/Google%20Cloud-4285F4?&style=flat-square&logo=Google%20Cloud&logoColor=white" />
 
 
 
