@@ -76,6 +76,9 @@
 <img alt="symfony" src="https://img.shields.io/badge/Symfony-black?logo=symfony&style=flat-square" />
 <img alt="vercel" src="https://img.shields.io/badge/Vercel-000000?&style=flat-square&logo=vercel&logoColor=white" />
 
+<img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+<img alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927" />
+<img alt="sql" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1" />
 
 
 
