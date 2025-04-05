@@ -70,7 +70,7 @@
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
 <img alt="Node" src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-square" />
-<img alt="Elixir" src="https://img.shields.io/badge/Auto--IT-red&style=flat-square" />
+<img alt="Elixir" src="https://img.shields.io/badge/Auto--IT-red" />
 
 
 
